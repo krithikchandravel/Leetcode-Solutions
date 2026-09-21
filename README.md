@@ -18,9 +18,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0394-decode-string) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
