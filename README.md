@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+## Sorting
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
