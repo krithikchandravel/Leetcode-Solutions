@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0394-decode-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
