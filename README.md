@@ -45,16 +45,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Queue
 |  |
@@ -71,5 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
