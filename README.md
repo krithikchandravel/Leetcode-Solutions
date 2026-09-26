@@ -44,18 +44,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
