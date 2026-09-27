@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Hash Table
@@ -109,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
