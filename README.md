@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0394-decode-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
