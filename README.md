@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -127,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
