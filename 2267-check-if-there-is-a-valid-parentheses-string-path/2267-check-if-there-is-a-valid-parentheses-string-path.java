@@ -16,12 +16,6 @@ class Solution {
             return false;
         }
 
-        int remaining = (grid.length - 1 - r) + (grid[0].length - 1 - c);
-
-        if (balance > remaining) {
-            return false;
-        }
-
         if (r == grid.length - 1 && c == grid[0].length - 1) {
             return balance == 0;
         }
