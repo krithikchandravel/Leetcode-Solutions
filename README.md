@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
@@ -145,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
