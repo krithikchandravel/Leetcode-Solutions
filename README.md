@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/1587-bank-account-summary-ii) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
 |  |
 | ------- |
