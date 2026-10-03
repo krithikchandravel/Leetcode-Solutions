@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
@@ -181,4 +184,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
