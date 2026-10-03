@@ -4,20 +4,6 @@ class Solution {
         int r = graph.length;
         int c = graph[0].length;
 
-        for(int i=0;i<r;i++){
-            adj.add(new ArrayList<>());
-        }
-        int idx = 0;
-        for(int[] e : graph){
-
-            for(int num : e){
-                adj.get(idx).add(num);
-                adj.get(num).add(idx);
-            }
-
-            idx++;
-        }
-
         int[] color = new int[r];
 
         Queue<Integer> q = new LinkedList<>();
@@ -38,7 +24,7 @@ class Solution {
 
                         int curr = q.poll();
 
-                        for(int nei : adj.get(curr)){
+                        for(int nei : graph[curr]){
 
                             if(color[nei]==0){
 
