@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0174-dungeon-game](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0174-dungeon-game](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0678-valid-parenthesis-string](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Breadth-First Search
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0733-flood-fill](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krithikchandravel/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
